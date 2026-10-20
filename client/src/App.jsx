@@ -1,0 +1,1 @@
+export default function App() {\n return (\n <div style={{ fontFamily: \Arial sans-serif\, padding: \2rem\ }}>\n <h1 style={{ color: \#4A90E2\ }}>Welcome to Premium React App</h1>\n <p>This is a stunning starter template with modern design.</p>\n </div>\n );\n}

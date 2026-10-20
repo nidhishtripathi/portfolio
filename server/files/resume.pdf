@@ -1,0 +1,177 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 4451 >>
+stream
+BT
+0.118 0.161 0.231 rg
+/F2 18 Tf
+1 0 0 1 50 750 Tm
+(NIDHISH TRIPATHI) Tj
+0.310 0.275 0.898 rg
+/F1 11 Tf
+1 0 0 1 50 728 Tm
+(B.Tech CSE Student | Web Development | Cybersecurity Enthusiast) Tj
+0.392 0.455 0.545 rg
+/F1 9 Tf
+1 0 0 1 50 713 Tm
+(Jaipur, Rajasthan | GitHub: github.com/nidhishtripathi | JK Lakshmipat University) Tj
+0.059 0.090 0.165 rg
+/F2 12 Tf
+1 0 0 1 50 690 Tm
+(EDUCATION) Tj
+0.118 0.161 0.231 rg
+/F2 10 Tf
+1 0 0 1 50 674 Tm
+(B.Tech in Computer Science and Engineering \(CSE Core\) - Third-Year Student) Tj
+0.278 0.333 0.412 rg
+/F1 9 Tf
+1 0 0 1 50 660 Tm
+(JK Lakshmipat University \(JKLU\), Jaipur, Rajasthan) Tj
+0.392 0.455 0.545 rg
+/F1 8.5 Tf
+1 0 0 1 50 647 Tm
+(Coursework: Intro to Cyber Security \(CS1140\), Computer Networks, Optimization, DBMS, Web Development) Tj
+0.059 0.090 0.165 rg
+/F2 12 Tf
+1 0 0 1 50 624.5 Tm
+(INTERNSHIP EXPERIENCE) Tj
+0.118 0.161 0.231 rg
+/F2 10 Tf
+1 0 0 1 50 608.5 Tm
+(Future Design - Intern \(Web Development\) | May 2026 - July 2026) Tj
+0.310 0.275 0.898 rg
+/F1 9.5 Tf
+1 0 0 1 50 594.5 Tm
+(Project: Omoide - Japanese JLPT Test and Learning Website) Tj
+0.200 0.255 0.333 rg
+/F1 8.5 Tf
+1 0 0 1 50 581.0 Tm
+(- Built responsive web & mobile UI across Next.js 15 and React Native \(Expo\) in a Turborepo monorepo.) Tj
+0.200 0.255 0.333 rg
+/F1 8.5 Tf
+1 0 0 1 50 568.5 Tm
+(- Implemented multi-script flashcard sessions \(Kanji, Hiragana, Romaji, Jukugo\) with instant scoring feedback.) Tj
+0.200 0.255 0.333 rg
+/F1 8.5 Tf
+1 0 0 1 50 556.0 Tm
+(- Designed dashboard widgets: active study streak tracking, weak words lists, and lesson module selectors.) Tj
+0.200 0.255 0.333 rg
+/F1 8.5 Tf
+1 0 0 1 50 543.5 Tm
+(- Created responsive authentication flows with client-side validation, toast alerts, and theme variables.) Tj
+0.059 0.090 0.165 rg
+/F2 12 Tf
+1 0 0 1 50 521.0 Tm
+(SELECTED PROJECTS) Tj
+0.118 0.161 0.231 rg
+/F2 10 Tf
+1 0 0 1 50 505.0 Tm
+(1. Omoide - Japanese JLPT Test and Learning Platform) Tj
+0.278 0.333 0.412 rg
+/F1 8.5 Tf
+1 0 0 1 50 491.0 Tm
+(   Stack: Next.js 15, React Native / Expo, TypeScript, TailwindCSS, Turborepo, PostgreSQL, Neon, Docker) Tj
+0.200 0.255 0.333 rg
+/F1 8.5 Tf
+1 0 0 1 50 478.5 Tm
+(   Spaced repetition flashcards, multi-script selectors, and personalized vocabulary analytics.) Tj
+0.118 0.161 0.231 rg
+/F2 10 Tf
+1 0 0 1 50 466.0 Tm
+(2. Lightweight ML-Based Intrusion Detection for Campus Networks \(CS1140 Course Project\)) Tj
+0.278 0.333 0.412 rg
+/F1 8.5 Tf
+1 0 0 1 50 452.0 Tm
+(   Stack: Python, Scikit-learn, LightGBM, Pandas, NumPy | JKLU) Tj
+0.200 0.255 0.333 rg
+/F1 8.5 Tf
+1 0 0 1 50 439.5 Tm
+(   Feature extraction and lightweight ML classification for resource-constrained campus & IoT network security.) Tj
+0.118 0.161 0.231 rg
+/F2 10 Tf
+1 0 0 1 50 427.0 Tm
+(3. Full-Stack MERN Personal Portfolio & Assessment Application) Tj
+0.278 0.333 0.412 rg
+/F1 8.5 Tf
+1 0 0 1 50 413.0 Tm
+(   Stack: React 18, Node.js, Express.js, MongoDB, Mongoose ODM, Vanilla CSS) Tj
+0.200 0.255 0.333 rg
+/F1 8.5 Tf
+1 0 0 1 50 400.5 Tm
+(   Course assessment project featuring responsive UI, theme toggling, MongoDB contact API, and CV downloads.) Tj
+0.118 0.161 0.231 rg
+/F2 10 Tf
+1 0 0 1 50 388.0 Tm
+(4. HackChain Labs - Cybersecurity Learning Platform) Tj
+0.278 0.333 0.412 rg
+/F1 8.5 Tf
+1 0 0 1 50 374.0 Tm
+(   Stack: Python, Django, SQLite/PostgreSQL, Web Security Concepts) Tj
+0.200 0.255 0.333 rg
+/F1 8.5 Tf
+1 0 0 1 50 361.5 Tm
+(   Hands-on lab environment exploring ethical hacking methodologies and defensive principles.) Tj
+0.059 0.090 0.165 rg
+/F2 12 Tf
+1 0 0 1 50 339.0 Tm
+(TECHNICAL SKILLS) Tj
+0.200 0.255 0.333 rg
+/F1 8.5 Tf
+1 0 0 1 50 323.0 Tm
+(Languages: Python, C, C++, JavaScript \(ES6+\), TypeScript, SQL) Tj
+0.200 0.255 0.333 rg
+/F1 8.5 Tf
+1 0 0 1 50 310.5 Tm
+(Frontend: React.js, Next.js, HTML5, CSS3, TailwindCSS, Responsive Design) Tj
+0.200 0.255 0.333 rg
+/F1 8.5 Tf
+1 0 0 1 50 298.0 Tm
+(Backend: Node.js, Express.js, Django, RESTful API Design) Tj
+0.200 0.255 0.333 rg
+/F1 8.5 Tf
+1 0 0 1 50 285.5 Tm
+(Databases: MongoDB, Mongoose ODM, PostgreSQL, Neon, SQLite) Tj
+0.200 0.255 0.333 rg
+/F1 8.5 Tf
+1 0 0 1 50 273.0 Tm
+(Cybersecurity & Networking: Network Traffic Analysis, IDS, OWASP Top 10, Port Scanning, Linux) Tj
+0.200 0.255 0.333 rg
+/F1 8.5 Tf
+1 0 0 1 50 260.5 Tm
+(Machine Learning: Scikit-learn, LightGBM, Pandas, NumPy, Feature Extraction) Tj
+0.200 0.255 0.333 rg
+/F1 8.5 Tf
+1 0 0 1 50 248.0 Tm
+(Tools: Git, GitHub, Docker, Postman, Vite, Turborepo, VS Code) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000004754 00000 n 
+0000004824 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4899
+%%EOF

@@ -1,0 +1,1 @@
+{\n  " name\: \server\,\n \version\: \1.0.0\,\n \main\: \index.js\,\n \scripts\: {\n \start\: \node index.js\\n },\n \dependencies\: {\n \express\: \^4.18.2\,\n \dotenv\: \^16.0.0\,\n \mongoose\: \^7.5.0\\n }\n}
