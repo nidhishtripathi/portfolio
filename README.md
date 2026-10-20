@@ -20,7 +20,7 @@ Personal portfolio by **Nidhish Tripathi**  B.Tech Computer Science & Engineerin
 - **Technical Interests:** Web Development, Cybersecurity, Ethical Hacking, Computer Networks, and Machine Learning
 - **Professional Experience:** First internship at **Future Design**
 - **Internship Project:** *Omoide* — Japanese JLPT Test and Learning Website
-- **Headline:** B.Tech CSE Student | Web Development | Cybersecurity Enthusiast
+- **Headline:** B.Tech CSE Student
 - **GitHub:** [https://github.com/nidhishtripathi](https://github.com/nidhishtripathi)
 - **Repository:** [https://github.com/nidhishtripathi/mern-portfolio-assignment](https://github.com/nidhishtripathi/mern-portfolio-assignment)
 
@@ -80,10 +80,6 @@ Organized into 7 structured categories without arbitrary percentages:
   - **Internship:** Future Design — Intern, Web Development (May 2026 – July 2026)
   - **Education:** B.Tech in Computer Science and Engineering (CSE Core), JK Lakshmipat University (2024 – Present, Third-Year)
 
-### 7. 🏆 Certifications & Coursework Milestones
-- CS1140 Introduction to Cyber Security Project Submission (JKLU)
-- Full-Stack MERN Course Assessment (JKLU)
-- Structured, clearly marked editable placeholders for future industry credentials (NPTEL, Coursera) and hackathons.
 
 ### 8. 📬 Contact Form (MongoDB & Express Connected)
 - Responsive contact form with client validation.
@@ -203,6 +199,6 @@ Client runs on: [http://localhost:5173](http://localhost:5173)
 
 ## 👨‍💻 Author
 **Nidhish Tripathi**  
-B.Tech Computer Science & Engineering (CSE Core), Third-Year Student  
+B.Tech Computer Science & Engineering (CSE Core), 
 JK Lakshmipat University (JKLU), Jaipur, Rajasthan  
 GitHub: [@nidhishtripathi](https://github.com/nidhishtripathi)
