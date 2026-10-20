@@ -6,9 +6,7 @@
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB%20+%20Mongoose-47A248.svg)](https://mongodb.com)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](LICENSE)
 
-Personal portfolio web application developed by **Nidhish Tripathi** (Third-Year B.Tech Computer Science & Engineering student at JK Lakshmipat University, Jaipur) for the third-year B.Tech full-stack development course assessment.
-
-This project showcases authentic student coursework, industry internship experience at **Future Design**, machine learning research, and full-stack MERN engineering with live MongoDB persistence and backend-served CV downloads.
+Personal portfolio by **Nidhish Tripathi**  B.Tech Computer Science & Engineering student at JK Lakshmipat University, Jaipur
 
 ---
 
@@ -68,14 +66,7 @@ Organized into 7 structured categories without arbitrary percentages:
    - *Context:* CS1140: Introduction to Cyber Security Course Project, JK Lakshmipat University
    - *Technologies:* Python, Scikit-learn, LightGBM, Pandas, NumPy, Network Datasets (CICIDS)
    - *Key Features:* Evaluated lightweight classifiers (Decision Trees, Random Forest, Logistic Regression, LightGBM, KNN) on network flow statistics for detecting port scanning and DoS threats in resource-constrained environments.
-3. **Full-Stack MERN Personal Portfolio & Assessment Web App (This Website)**
-   - *Context:* 3rd Year B.Tech Full-Stack MERN Course Assessment, JKLU
-   - *Technologies:* React 18, Vite, Node.js, Express.js, MongoDB, Mongoose, Vanilla CSS
-   - *Key Features:* Dark/Light mode theme switching, Express REST APIs, MongoDB contact form submission, and backend-served CV downloads.
-4. **HackChain Labs — Cybersecurity Learning Platform**
-   - *Context:* Personal Cybersecurity & Web Security Practice
-   - *Technologies:* Python, Django, SQLite/PostgreSQL, Web Security Concepts (OWASP Top 10)
-   - *Key Features:* Interactive vulnerability sandboxes, challenge flags, and guided ethical hacking walkthroughs.
+
 
 ### 5. 📄 Resume / CV Download (Backend Express Served)
 - Both formats generated and served via Express.js backend endpoints:
